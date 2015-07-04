@@ -48,7 +48,7 @@ class classPesonas
 	public function getApellido(){
 		return $this->apellido;
 	}
-		public function setCedula($cd){
+	public function setCedula($cd){
 		$this->cedula = $cd;
 	}
 	public function getCedula(){
